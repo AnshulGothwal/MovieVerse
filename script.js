@@ -1,8 +1,8 @@
 // carousal script
 let photo = [
   "/squid.jpg",
-  "https://cdn.wallpapersafari.com/17/67/h2Xpum.jpg",
-"https://images4.alphacoders.com/139/thumb-1920-1390815.jpg",
+  "/stranger.jpg",
+"/picky.jpg",
 ];
 
 const carousal = document.querySelector(".hero-section");
