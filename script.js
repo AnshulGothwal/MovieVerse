@@ -1,7 +1,7 @@
 // carousal script
 let photo = [
   "/squid.jpg",
-  "/stranger.jpg",
+  "/starnger.jpg",
 "/picky.jpg",
 ];
 
