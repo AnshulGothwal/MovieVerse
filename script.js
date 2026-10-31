@@ -1,6 +1,6 @@
 // carousal script
 let photo = [
-  "https://images7.alphacoders.com/124/thumb-1920-1249146.jpg",
+  "/squid.jpg",
   "https://cdn.wallpapersafari.com/17/67/h2Xpum.jpg",
 "https://images4.alphacoders.com/139/thumb-1920-1390815.jpg",
 ];
